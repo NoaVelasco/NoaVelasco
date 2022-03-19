@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoaVelasco.
 - 👀 I’m interested in learning a lot of things. Zero to AWS.
-- 🌱 I’m currently learning Python, Power Shell, DD.BB. and basics.
-- 💞️ I’m looking to collaborate on editorial world.
+- 🌱 I’m currently learning Python, SQL, MongoDB and basics.
+- 💞️ I’m looking for a job in the publishing sector, but I’m open minded.
 - 📫 https://linktr.ee/noavelasco
 
 <!---
