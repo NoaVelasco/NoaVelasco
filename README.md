@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Noa (/nɒə/).
-- 💻 I'm a junior developer
-- 🐍 My main programming language is Python 
-- 🐧 Linux is awesome, and I learn every day
-- 👀 I’m also interested in testing, cybersecurity, game development…
+- 💻 I'm a software developer. I prefer the backend to the frontend. Love both.
+- 🐍 My main programming languages are Python, JavaScript, Java. 
+- 🐧 Linux is awesome, and I use it every day. Sometimes with Git and Docker.
+- 👀 I’m also interested in cybersecurity, game development, cloud computing… I am curious and have a restless mind.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/noavelasco/)
 - 🧑 he/him and they/them.
 
